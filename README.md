@@ -1,2 +1,3 @@
-# MultiTechDataProjects-
-Explore this repository for a diverse collection of projects showcasing my proficiency in analytical tools such as Excel, Power BI, Tableau, Python, and SQL.
+### MultiTechDataProjects
+
+Here, you'll find a collection of projects that demonstrate my skills in various analytical tools.
